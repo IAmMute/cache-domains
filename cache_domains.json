@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "vrchat",
+			"description": "CDN for VRChat",
+			"domain_files": ["vrchat.txt"]
 		}
 	]
 }
